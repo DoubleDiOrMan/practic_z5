@@ -1,0 +1,12 @@
+C:\Users\double_di\source\repos\Tema 5\Tema 5\bin\Debug\Tema 5.exe.config
+C:\Users\double_di\source\repos\Tema 5\Tema 5\bin\Debug\Tema 5.exe
+C:\Users\double_di\source\repos\Tema 5\Tema 5\bin\Debug\Tema 5.pdb
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.csproj.AssemblyReference.cache
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema_5.Form1.resources
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema_5.Properties.Resources.resources
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.csproj.GenerateResource.cache
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.csproj.CoreCompileInputs.cache
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.exe
+C:\Users\double_di\source\repos\Tema 5\Tema 5\obj\Debug\Tema 5.pdb
+C:\Users\double_di\source\repos\Tema 5\Tema 5\bin\Debug\Tema 5.xml
